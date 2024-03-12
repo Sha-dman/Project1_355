@@ -278,6 +278,7 @@ cursor: pointer;
 .address{
     display: flex;
     flex-direction: column;
+    justify-content: space-around;
     align-items: center;
     background-color: #ddd;
     border-radius: 12px;
